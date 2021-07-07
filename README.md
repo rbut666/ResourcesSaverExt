@@ -6,6 +6,8 @@ Extension can be found here:
 
 https://chrome.google.com/webstore/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb?hl=en-US
 
+- 0.1.9: fork edit => 内容恢复到 线上正式版(0.1.8)，暂时去掉 edit 功能 => 添加 图片分类到文件夹的功能
+
 - 0.1.9: Add download list
 
 - 0.1.8: fixed zip file uncompressing with missing path issue in Window
